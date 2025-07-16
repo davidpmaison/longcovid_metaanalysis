@@ -46,7 +46,7 @@ colnames(countData) <- gsub(".*\\/|\\.ReadsPerGene.out.tab", "", colnames(countD
 # ------------------ 3. RUN DESeq2 ------------------
 dds <- DESeqDataSetFromMatrix(countData = countData,
                               colData = sampleData,
-                              design = ~ condition)
+                              design = ~ condition + study_id)
 dds <- DESeq(dds)
 
 # ------------------ 4. EXTRACT RESULTS ------------------
