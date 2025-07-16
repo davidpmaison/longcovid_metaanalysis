@@ -52,7 +52,6 @@ dds <- DESeq(dds)
 # ------------------ 4. EXTRACT RESULTS ------------------
 # Replace contrast groups as needed
 res <- results(dds, contrast = c("condition", "<GROUP1>", "<GROUP2>"))
-res <- lfcShrink(dds, coef = 2, res = res, type = "apeglm")
 
 # Annotate with gene names
 res$ENSEMBL <- rownames(res)
