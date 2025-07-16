@@ -1,4 +1,4 @@
-# LongCOVID_bulkRNAseq_meta-analysis
+# longcovid_metaanalysis
 
 This repository contains analysis code and results from our meta-analysis of bulk RNA-seq datasets profiling immune cells in COVID-19 and Long COVID.
 
