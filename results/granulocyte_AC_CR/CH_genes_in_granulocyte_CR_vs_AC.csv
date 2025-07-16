@@ -1,0 +1,2 @@
+ENSEMBL,baseMean,log2FoldChange,lfcSE,stat,pvalue,padj,external_gene_name,gene_biotype
+ENSG00000080603,244.7476464,0.43892804,0.13174571,3.331630603,0.000863388,0.018114164,SRCAP,protein_coding
