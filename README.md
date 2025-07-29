@@ -37,6 +37,6 @@ This repository contains analysis code and results from our meta-analysis of bul
 If you use or reference this repository, please cite:
 
 **Maison DP, Khadka VS, Mohd-Ibrahim I, Peluso MJ, Henrich TJ, Deng Y, Gerschenson M.**  
-*Peripheral Immune Progression to Long COVID is Associated with Mitochondrial Gene Transcription: a Meta-Analysis.* 2025.
+*Maison, D. P. et al. Peripheral immune progression to long COVID is associated with mitochondrial gene transcription: A meta-analysis. Mitochondrion 102072 (2025) doi:10.1016/j.mito.2025.102072.*
 
 ---
